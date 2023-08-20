@@ -1,0 +1,7 @@
+run pod from intellij
+127.0.0.1:64191: connectex: No connection could be made because the target machine actively refused it.
+
+-- start kubernetes and restart idea
+check Settings | Build, Execution, Deployment | Kubernetes.
+https://www.jetbrains.com/help/idea/kubernetes.html
+---------------------------------------------------
