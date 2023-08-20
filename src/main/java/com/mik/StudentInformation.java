@@ -1,4 +1,4 @@
-package mh.demo;
+package com.mik;
 
 public class StudentInformation {
 
