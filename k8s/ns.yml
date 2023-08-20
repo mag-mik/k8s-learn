@@ -1,0 +1,6 @@
+#namespaces
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: spring-boot
+  
