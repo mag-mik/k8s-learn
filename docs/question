@@ -5,3 +5,11 @@ run pod from intellij
 check Settings | Build, Execution, Deployment | Kubernetes.
 https://www.jetbrains.com/help/idea/kubernetes.html
 ---------------------------------------------------
+
+deploy java app example
+
+1. package app to container.
+2. build and push docker image
+    - need container registry ?
+
+https://spring.io/guides/topicals/spring-boot-docker/
